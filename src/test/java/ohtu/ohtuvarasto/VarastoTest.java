@@ -10,6 +10,7 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
+//CHECKSTYLE:OFF
 public class VarastoTest {
 
     Varasto varasto;
@@ -131,3 +132,4 @@ public class VarastoTest {
     }
 
 }
+//CHECKSTYLE:ON
